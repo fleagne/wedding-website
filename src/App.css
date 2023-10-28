@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'HannariMincho';
+  src: local('HannariMincho-Regular.otf'), url('./fonts/HannariMincho-Regular.otf');
+}
+
+body {
+  margin: 0;
+  font-family: 'HannariMincho';
+  text-align: 'center';
+}
